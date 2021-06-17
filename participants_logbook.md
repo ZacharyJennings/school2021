@@ -14,3 +14,9 @@ You may contribute your message through a pull request (see the git lecture if n
 
 * Giovanni Cozzolongo: thank you for this cool Summer School!
 
+* I am approaching the end of the first year of my PhD in astrophysics. I only started to teach 
+  my self python in order to carry out astrophysical research. However, after this school, I feel 
+  an obsession growing for coding itself. I look forward to being able to contribute to great 
+  projects. Im also keen to start writing elegant scripts in Julia with the advantages of 
+  subscripting, using sybomls etc... Thank you to everyone who delivered this school! 
+  - Zachary Jennings. 
